@@ -10,7 +10,7 @@ function Team() {
         <div className="container">
           <div className="row align-items-center">
             <div
-              className="col-md-6"
+              className="col-md-6 "
               data-aos="fade-right"
               data-aos-anchor-placement="center-bottom"
               data-aos-easing="liner"

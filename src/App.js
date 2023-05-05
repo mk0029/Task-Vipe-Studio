@@ -14,6 +14,7 @@ import Footer from "./components/Footer";
 import FeaturedOn from "./components/FeaturedOn";
 import { useEffect } from "react";
 import BackToTOp from "./components/BackToTOp";
+import LoaderSwipe from "./components/LiaderSwipe";
 
 function App() {
   useEffect(() => {
@@ -21,6 +22,7 @@ function App() {
   }, []);
   return (
     <>
+      <LoaderSwipe />
       <div className=" overflow-hidden">
         <BackToTOp />
         <NavBar />

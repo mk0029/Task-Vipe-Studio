@@ -15,7 +15,7 @@ function Header() {
               className="col-lg-6"
               data-aos="flip-left"
               data-aos-easing="ease-out"
-              data-aos-duration="2000">
+              data-aos-duration="3000">
               <div className="mt-lg-5 mt-xl-0">
                 <h1 className=" ff_Konexy fs_7xl fw-normal text-white  line_after_header position-relative ">
                   WordPress Development Agency
@@ -54,7 +54,7 @@ function Header() {
               className="col-lg-6"
               data-aos="flip-right"
               data-aos-easing="linear"
-              data-aos-duration="1500">
+              data-aos-duration="3000">
               <div className="ms-xl-5 d-flex justify-content-center d-xxl-block my-md-4 mt-4 my-xxl-0 z_index2 position-relative  ">
                 <div className=" Grident_layer z_index0"></div>
                 <div className=" Grident_layer2 z_index0"></div>
@@ -79,7 +79,7 @@ function Header() {
         className="bg_tellUs py-5  position-relative "
         data-aos="zoom-out-up"
         data-aos-easing="ease-out "
-        data-aos-duration="1500"
+        data-aos-duration="3000"
         style={{ zIndex: "12" }}>
         <div className=" container ">
           <div className=" pb-xl-0 pb-lg-4 pb-sm-3 pb-2 pt-md-4 pt-2">

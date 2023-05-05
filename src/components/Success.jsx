@@ -7,9 +7,9 @@ function Success() {
     <>
       <section style={{ background: "white" }} className=" py-xl-5 py-4 pb-5 ">
         <div className="container pt-md-5">
-          <div className="row  align-items-center pt-lg-5 mt-4 ">
+          <div className="row flex-column-reverse flex-lg-row  align-items-center pt-lg-5 mt-4 ">
             <div
-              className="col-lg-4"
+              className="col-lg-4  my-lg-0 mt-4 mt-sm-5"
               data-aos-anchor-placement="center-bottom"
               data-aos="fade-right"
               data-aos-easing="liner"
@@ -24,7 +24,7 @@ function Success() {
                 />
               </div>
             </div>
-            <div className="col-lg-8 my-lg-0 mt-4 mt-sm-5">
+            <div className="col-lg-8">
               <div className=" ps-md-4 mt-4 mt-md-0">
                 <p className=" ff_gilroy fw_regular fs_sm text_Gray mb-0">
                   HAVE YOU SEEN OUR MASCOT?

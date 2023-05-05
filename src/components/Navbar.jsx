@@ -50,7 +50,7 @@ function NavBar() {
           data-aos="fade-down"
           data-aos-offset="500"
           data-aos-easing="linear"
-          data-aos-duration="1500">
+          data-aos-duration="3000">
           <nav className="pt-3 nav_bg">
             <div className=" container px-2 px-sm-0 ">
               <div className=" d-flex justify-content-between align-items-center w-100 ">
